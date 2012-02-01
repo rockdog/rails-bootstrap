@@ -163,6 +163,7 @@ DEPENDENCIES
   launchy
   pg
   rails (= 3.2.1)
+  rake
   rspec-rails
   sass-rails (~> 3.2.3)
   thin
